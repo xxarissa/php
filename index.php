@@ -1,6 +1,7 @@
 <?php
 	
-	echo "What's going on? 123";
+	echo "What's going on????";
+	
+	echo "Hey guys!";
 
-	echo "Hey girl";
 ?>
